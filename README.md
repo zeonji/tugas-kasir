@@ -1,8 +1,8 @@
 # Tugas Kasir (HTML, CSS & JS)
 
 ## Cara Mengoperasikan
-- install nodejs 
-- install git 
+- install [nodejs](https://nodejs.org/en/download/) 
+- install [git](https://git-scm.com/download/win) 
 - clone repository ini dengan perintah `git clone https://github.com/zeonji/tugas-kasir` 
 - install dependencies menggunakan node package module `npm install` 
 - jalankan dengan perintah `npm start` 
@@ -10,9 +10,9 @@
 
 ## Cara pengoperasian Git dan Github
 - install git 
-- pastikan punya akun di`github.com` 
+- pastikan punya akun di [github.com](https://github.com/)
 - jalankan perintah `git add .` untuk menambahkan semua file change stage 
 - jalankan perintah `git add namafile1.html namafile2.html` untuk menambahkan `namafile1.html namafile2.html` ke change stage 
 - jalankan perintah `git commit -m"pesan perubahan data"` untuk menandai commit 
-- jalankan perintah `git pull origin master` untuk update/mengambil file dari remote(github.cm) 
-- jalankan perintah `git push origin master` untuk mengunggah perubahan file ke server remote(github.com) 
+- jalankan perintah `git pull origin master` untuk update/mengambil file dari remote([github.com](https://github.com/)) 
+- jalankan perintah `git push origin master` untuk mengunggah perubahan file ke server remote([github.com](https://github.com/)) 
